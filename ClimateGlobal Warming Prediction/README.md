@@ -27,12 +27,8 @@ LandMaxTemperatureUncertainty: the 95% confidence interval around the maximum la
 LandMinTemperature: global average minimum land temperature in celsius
 LandMinTemperatureUncertainty: the 95% confidence interval around the minimum land temperature
 LandAndOceanAverageTemperature: global average land and ocean temperature in celsius
-LandAndOceanAverageTemperatureUncertainty: the 95% confidence interval around the global average land and ocean temperature
-Other files include:
+LandAndOceanAverageTemperatureUncertainty: the 95% confidence interval around the global average land and ocean temperature.
 
 Global Average Land Temperature by State (GlobalLandTemperaturesByState.csv)
-Global Land Temperatures By Major City (GlobalLandTemperaturesByMajorCity.csv)
-Global Land Temperatures By City (GlobalLandTemperaturesByCity.csv)
-
 ### Find Raw Data at :
 [Berkeley Earth data page](linkhere).
