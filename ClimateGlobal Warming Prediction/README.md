@@ -18,7 +18,8 @@ It is an unmaskable fact that, lately, there has been a negative trend in the ra
     - Rising of the Sea Levels
     - 
 
-Date: starts in 1743 for average land temperature and 1850 for max and min land temperatures and global ocean and land temperatures
+Date: starts in 1743 for average land temperature.
+By 1850 , there were provisions for max and min land temperatures and global ocean and land temperatures
 LandAverageTemperature: global average land temperature in celsius
 LandAverageTemperatureUncertainty: the 95% confidence interval around the average
 LandMaxTemperature: global average maximum land temperature in celsius
