@@ -16,7 +16,6 @@ It is an unmaskable fact that, lately, there has been a negative trend in the ra
 ##### Negative impacts include but are not limited to:
     - Melting of ICE and Snows
     - Rising of the Sea Levels
-    - 
 
 Date: starts in 1743 for average land temperature.
 By 1850 , there were provisions for max and min land temperatures and global ocean and land temperatures
