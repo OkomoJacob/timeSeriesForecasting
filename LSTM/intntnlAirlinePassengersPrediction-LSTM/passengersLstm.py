@@ -5,8 +5,6 @@ import os
 
 print(os.getcwd())
 data = os.path.join('data/', 'myPassengers.csv')
-dataset = pd.read_csv(data)
-"""
-plt.plot(dataset)
+dataset = pd.read_csv(data, usecols=[1], engine='python')
+plt.plot(data)
 plt.show()
-"""
