@@ -32,3 +32,10 @@ Have a look at the architecture [here](img/architectures/architecture.png).
 A `block` has components(gates that manage the block's state of either on or off) that make it smarter than a classical neuron.
 A block operates upon an input sequence and each gate within a block uses the sigmoid activation units to control whether they are triggered(fired) or not, making the change of state and addition of information flowing through the block conditional.
 
+##### Gates
+
+As discussed briefly aabove,we have three types of gates within a LSTM-RNN unit:
+
+  - [Forget Gate](https): conditionally decides what information to throw away from the block.
+  - [Input Gate](https): conditionally decides which values from the input to update the memory state.
+  - [Output Gate](htttps): conditionally decides what to output based on input and the memory of the block.
