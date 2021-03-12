@@ -6,3 +6,6 @@ As seen in in the folder name, the problem we are going to look at in this post 
 
 The data is in CSV format and with only 2 columns, i.e `Month`, `number of passengers` and 144 rows
 
+#### Execution
+since we're not interested in the dates, we load the dataset excluding the first column.
+
