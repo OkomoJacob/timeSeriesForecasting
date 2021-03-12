@@ -18,7 +18,7 @@ Having that in mind, LSTM can be `applicable` in complex problem domains e.g
   * High accuracy Weather Forecasting
   * More to achieve `state-of-the-art` results.
 
-#### Architecture
+#### Architecture and operaation of LSTM
 It's is highly imperative to have an understanding of the overall achiteecture of the LSTM RNN, how the memory blocks are connected through the layers.
 
 Have a look at the architecture [here](img/architectures/architecture.png).
