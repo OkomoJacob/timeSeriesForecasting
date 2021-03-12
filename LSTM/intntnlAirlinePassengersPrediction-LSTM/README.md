@@ -11,3 +11,7 @@ since we're not interested in the dates, we load the dataset excluding the first
 
 #### Built With
 Please refer to the `requirements.txt` file in this repo for more.
+
+in your terminal or command line, run `pip3 install -r requirements.txt`.
+- This will tell pip3 or pip to read and install the contents of the .txt file
+
