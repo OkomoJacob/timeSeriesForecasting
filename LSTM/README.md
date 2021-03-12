@@ -23,4 +23,5 @@ It's is highly imperative to have an understanding of the overall achiteecture o
 
 Have a look at the architecture [here](img/architectures/architecture.png).
 
-A `block` has components that make it smarter than a classical neuron. A block contains gates that manage the block’s state and output. A block operates upon an input sequence and each gate within a block uses the sigmoid activation units to control whether they are triggered or not, making the change of state and addition of information flowing through the block conditional.
+A `block` has components(gates that manage the block's state of either on or off) that make it smarter than a classical neuron.
+A block operates upon an input sequence and each gate within a block uses the sigmoid activation units to control whether they are triggered(fired) or not, making the change of state and addition of information flowing through the block conditional.
