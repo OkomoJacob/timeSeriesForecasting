@@ -23,9 +23,15 @@ Extract the NumPy array from the dataframe and convert the integer values to flo
 which are more suitable for modeling with a neural network.
 """
 
-dataframe = pd.read_csv('airline-passengers.csv', usecols=[1], engine='python')
-dataset = dataframe.values
+df = pd.read_csv('data/oldPassengers.csv', usecols=[1], engine='python')
+dataset = df.values
 dataset = dataset.astype('float32')
+
+"""
+plt.plot(data)
+plt.title("A Raw plot of our Data")
+plt.show()
+"""
 
 # Normalize the data 0-to-1
 scaler = MinMaxScaler(feature_range=(0, 1))
