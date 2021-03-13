@@ -28,3 +28,7 @@ in your terminal or command line, run `pip3 install -r requirements.txt`.
 3.`Rescale the data(Normalize it) from 0 to 1`
   * LSTMs are sensitive to the scale of the input data especially if it , specifically when the sigmoid activation function (default) or tanh activation functions are used. 
   * We thus rescale the data to the range of 0-to-1, also called normalizing using the `MinMaxScaler` preprocessing class from the `scikit-learn` library.
+
+4.`Split the data into train and test`
+  * For a normal classification or regression problem, we would use cross validation, however for time series data, the sequence of values is important. A simple method that we can use is to split the ordered dataset into train and test datasets.
+  * Use about 70% for train and 30% for test using the 
