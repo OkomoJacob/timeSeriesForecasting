@@ -82,12 +82,14 @@ STEP 6: Make predictions
 
 trainPredict = model.predict(trainX)
 testPredict = model.predict(testX)
+
 # invert predictions
 trainPredict = scaler.inverse_transform(trainPredict)
 trainY = scaler.inverse_transform([trainY])
 testPredict = scaler.inverse_transform(testPredict)
 testY = scaler.inverse_transform([testY])
-# calculate root mean squared error
+
+# calculate root mean squared error(MSE)
 trainScore = math.sqrt(mean_squared_error(trainY[0], trainPredict[:,0]))
 print('Train Score: %.2f RMSE' % (trainScore))
 testScore = math.sqrt(mean_squared_error(testY[0], testPredict[:,0]))
