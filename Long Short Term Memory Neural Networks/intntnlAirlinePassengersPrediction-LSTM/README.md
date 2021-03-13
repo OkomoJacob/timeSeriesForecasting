@@ -12,7 +12,7 @@ since we're not interested in the dates, we load the dataset excluding the first
 #### Built With
 Please refer to the `requirements.txt` file in this repo for more.
 In a nutshell:
-  - [Comma Seperated Value Data](https://support.google.com/google-ads/answer/9004364?hl=en#:~:text=A%20CSV%20(comma%2Dseparated%20values,in%20a%20table%20structured%20format)
+  - [Comma Seperated Value Data](https://www.bigcommerce.com/ecommerce-answers/what-csv-file-and-what-does-it-mean-my-ecommerce-business/)
   - [Pandas](https://pandas.pydata.org/docs/)
   - [Matplotlib](https://matplotlib.org/stable/faq/howto_faq.html)
   - [keras](https://keras.io/)
