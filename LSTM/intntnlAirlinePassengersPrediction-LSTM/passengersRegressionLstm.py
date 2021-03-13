@@ -5,7 +5,9 @@ from keras.models import Sequential
 from matplotlib import pyplot as plt
 from keras.layers import Dense
 from keras.layers import LSTM
-import pandas
+import pandas as pd
+import numpy as np
 import math
-import numpy
 
+# For reproduciblity, fix the random number seed.
+np.random.seed(7)
