@@ -48,4 +48,8 @@ Once the model is fit, check performace on the train and test datasets. This wil
  To some extent, it's prudent to invert the predictions before calculating error scores to ensure that performance is reported in the same units as the original data.
 
 10. Finally `Generate predictions` using the model for both the train and test dataset to get a visual indication of the skill of the model.
-Because of how the dataset was prepared, we must shift the predictions so that they align on the x-axis with the original dataset. Once prepared, the data is plotted, showing the original dataset in blue, the predictions for the training dataset in green, and the predictions on the unseen test dataset in red
+- We must shift the predictions so that they align on the x-axis with the original dataset.
+- Once prepared, the data is plotted, showing the:
+    -  Original dataset in `yellow` 
+    -  The predictions for the training dataset in `green` 
+    -  Predictions on the unseen test dataset in `red`
