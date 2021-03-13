@@ -46,7 +46,7 @@ print(len(train), len(test))
 """
 SPET 3: Convert an array of values into a dataset matrix
 """
-def creatDataset(dataset, look_back=1):
+def createDataset(dataset, look_back=1):
 	dataX, dataY = [], []
 	for i in range(len(dataset)-look_back-1):
 		a = dataset[i:(i+look_back), 0]
@@ -57,3 +57,8 @@ def creatDataset(dataset, look_back=1):
 """
 STEP 4: Prepare the train and test datasets for modeling
 """
+
+# reshape into X=t and Y=t+1
+look_back = 1
+trainX, trainY = createDataset(train, look_back)
+testX, testY = createDataset(test, look_back)
