@@ -22,3 +22,5 @@ In a nutshell:
 in your terminal or command line, run `pip3 install -r requirements.txt`.
 - This will tell pip3 or pip to read and install the contents of the .txt file
 
+#### Code Explanation
+LSTMs are sensitive to the scale of the input data especially if it , specifically when the sigmoid (default) or tanh activation functions are used. It can be a good practice to rescale the data to the range of 0-to-1, also called normalizing. We can easily normalize the dataset using the MinMaxScaler preprocessing class from the scikit-learn library.
