@@ -28,3 +28,5 @@ dataset = dataframe.values
 dataset = dataset.astype('float32')
 
 # Normalize the data 0-to-1
+scaler = MinMaxScaler(feature_range=(0, 1))
+dataset = scaler.fit_transform(dataset)
