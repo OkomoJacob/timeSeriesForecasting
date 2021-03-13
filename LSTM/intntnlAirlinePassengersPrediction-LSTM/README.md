@@ -12,13 +12,13 @@ since we're not interested in the dates, we load the dataset excluding the first
 #### Built With
 Please refer to the `requirements.txt` file in this repo for more.
 In a nutshell:
-  - data.csv
-  - pandas
-  - matplotlib
-  - keras
+  - [Comma Seperated Value Data](https://support.google.com/google-ads/answer/9004364?hl=en#:~:text=A%20CSV%20(comma%2Dseparated%20values,in%20a%20table%20structured%20format.)
+  - [Pandas](https://pandas.pydata.org/docs/)
+  - [Matplotlib](https://matplotlib.org/stable/faq/howto_faq.html)
+  - [keras](https://keras.io/)
   - [Scikit-learn](https://scikit-learn.org/stable/)
-  - tensorflow
-  - numpy
+  - [Tensorflow](https://www.tensorflow.org/api_docs)
+  - [Numpy](https://numpy.org/doc/)
 
 in your terminal or command line, run `pip3 install -r requirements.txt`.
 - This will tell pip3 or pip to read and install the contents of the .txt file
