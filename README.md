@@ -40,4 +40,26 @@ As discussed briefly aabove,we have three types of gates within a LSTM-RNN unit:
   - [Input Gate](https://colah.github.io/posts/2015-08-Understanding-LSTMs/): conditionally decides which values from the input to update the memory state.
   - [Output Gate](https://colah.github.io/posts/2015-08-Understanding-LSTMs/): conditionally decides what to output based on input and the memory of the block.
   
+#### Built With
+  - [Comma Seperated Value Data](https://support.google.com/google-ads/answer/9004364?hl=en#:~:text=A%20CSV%20(comma%2Dseparated%20values,in%20a%20table%20structured%20format.)
+  - [Pandas](https://pandas.pydata.org/docs/)
+  - [Matplotlib](https://matplotlib.org/stable/faq/howto_faq.html)
+  - [keras](https://keras.io/)
+  - [Scikit-learn](https://scikit-learn.org/stable/)
+  - [Tensorflow](https://www.tensorflow.org/api_docs)
+  - [Numpy](https://numpy.org/doc/)
   
+#### Errata
+
+Although I have taken every care to ensure the accuracy my my content, mistakes
+do happen. If you find a mistake in this project—maybe a mistake in the text or
+the code—I would be grateful if you could report this to me via [mail](jaylabs2030@gmail.com) or via visiting my official [website](https://okomojacob.herokuapp.com). By doing so, you can
+save others from frustration and help me improve subsequent versions of this mini-project and related works. 
+
+#### Getting Further Help
+One of the greatest benefits of `keras`, `python` and `deeplearning` is its great kind and helpful user community and heavy documentation.
+For help with any aspect of related to the above mentioned and related - from installation, to application design,to deployment - feel free to ask questions online in the appended links.
+
+• [The python official website](http://www.python.org)
+• [Keras official Documentation](https://keras.io/)
+• [scikit-learn](https://scikit-learn.org/stable/)
