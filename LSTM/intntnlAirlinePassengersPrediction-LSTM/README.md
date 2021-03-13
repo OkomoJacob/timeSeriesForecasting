@@ -38,3 +38,5 @@ in your terminal or command line, run `pip3 install -r requirements.txt`.
 
 6. Reshape the data in the form of `samples, time steps, features`
   * The LSTM network expects the input data (X) to be provided with a specific array structure in the above specified form.
+
+7.  Create and Fit the model with the necessary training parameters, [epochs](https://deepai.org/machine-learning-glossary-and-terms/epoch) and verbose
