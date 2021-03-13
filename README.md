@@ -41,7 +41,7 @@ As discussed briefly aabove,we have three types of gates within a LSTM-RNN unit:
   - [Output Gate](https://colah.github.io/posts/2015-08-Understanding-LSTMs/): conditionally decides what to output based on input and the memory of the block.
   
 #### Built With
-  - [Comma Seperated Value Data](https://support.google.com/google-ads/answer/9004364?hl=en#:~:text=A%20CSV%20(comma%2Dseparated%20values,in%20a%20table%20structured%20format.)
+  - [Comma Seperated Value Data](https://support.google.com/google-ads/answer/9004364?hl=en#:~:text=A%20CSV%20comma%2Dseparated%20values,in%20a%20table%20structured%20format.)
   - [Pandas](https://pandas.pydata.org/docs/)
   - [Matplotlib](https://matplotlib.org/stable/faq/howto_faq.html)
   - [keras](https://keras.io/)
