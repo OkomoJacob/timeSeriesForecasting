@@ -43,8 +43,9 @@ train_size = int(len(dataset) * 0.70)
 test_size = len(dataset) - train_size
 train, test = dataset[0:train_size,:], dataset[train_size:len(dataset),:]
 print(len(train), len(test))
-
-# convert an array of values into a dataset matrix
+"""
+SPET 3: Convert an array of values into a dataset matrix
+"""
 def creatDataset(dataset, look_back=1):
 	dataX, dataY = [], []
 	for i in range(len(dataset)-look_back-1):
@@ -52,3 +53,7 @@ def creatDataset(dataset, look_back=1):
 		dataX.append(a)
 		dataY.append(dataset[i + look_back, 0])
 	return np.array(dataX), np.array(dataY)
+
+"""
+STEP 4: Prepare the train and test datasets for modeling
+"""
