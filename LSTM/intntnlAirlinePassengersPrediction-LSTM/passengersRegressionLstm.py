@@ -1,6 +1,7 @@
 """
 STEP 1: Import the necessary libraries,ffunctions and classes
 """
+# from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import mean_squared_error
 from keras.models import Sequential
@@ -36,3 +37,9 @@ plt.show()
 # Normalize the data 0-to-1
 scaler = MinMaxScaler(feature_range=(0, 1))
 dataset = scaler.fit_transform(dataset)
+
+# split into train and test sets
+train_size = int(len(dataset) * 0.70)
+test_size = len(dataset) - train_size
+train, test = dataset[0:train_size,:], dataset[train_size:len(dataset),:]
+print(len(train), len(test))
