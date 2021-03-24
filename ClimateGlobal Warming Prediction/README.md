@@ -1,5 +1,15 @@
 ## Global Warming and Climate Change Prediction using Time Series Analysis
 
+### Contents:
+- What is Time Series Data and Time Series Analysis
+- Time Series Use Cases
+- Tools and Requirements
+
+### Built With
+
+
+### 
+
 It is an unmaskable fact that, lately, there has been a negative trend in the rate of Global Average Temp.This is negatively impacting the gloabl population as most(if not all) depend directly on the climate.
 ##### Negativee impacts include but are not limited to:
     - Melting of ICE and Snows
