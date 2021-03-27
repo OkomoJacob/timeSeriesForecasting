@@ -5,6 +5,10 @@
 - Time Series Use Cases
 - Tools and Requirements
 
+#### Usage
+
+-To succesfully use this project, run `pip3 install -r requirements.txt` to install the needed packages.Then start [jupyter-notebook](link) to launch the `timeSeries.ipynb` notebook to explore.
+- You can as well open the `resultImgs` folder to see the expected outputs.
 #### Time Series Data and Time Series Analysis
 [Time Series(Time Stamped) Data](https://www.investopedia.com/terms/t/timeseries.asp) can be seen as temporal data, i.e that collected over time at fixed intervals repeatedly.
 
