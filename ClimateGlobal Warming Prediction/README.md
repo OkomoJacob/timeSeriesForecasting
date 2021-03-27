@@ -24,7 +24,8 @@
      - The `Mean of the Series` should not be a Function of Time, but should be `Constant`
      - The `Variance of the Series` should not be a Function of Time, but should be `Constant`
      - The `Covariance` of the `ith` and the `i+nth term of the Series` should not be a Function of Time, but should be `Constant`
-4. [Data Transformation](link) : Moving Average, Exponential smoothing
+4. [Data Transformation](link) : Employs tecchniques e.g [Moving Average](link), [Exponential smoothing](link)
+   -Done to `make the Data Stationary` 
 5. [Review With SARIMA with ACF and PACF](link) :AutoRegressive Ingtegrated Moving Average([ARIMA](link))
 
 ### Time Series Analysis Use Cases
