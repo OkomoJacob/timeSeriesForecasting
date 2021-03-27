@@ -40,7 +40,7 @@ It is an unmaskable fact that, lately, there has been a negative trend in the ra
     - Rising of the Sea Levels
 
 #### Importance of Stationarity in Time Series Analysis
- Since Time Series assumes that each data point is independent from each other, and that statistical pperties of the data should not cchange over time, stationariy help us better understand and thus identify the Driving Parameters.
+ Since Time Series assumes that each data point is independent from each other, and that statistical pperties of the data should not cchange over time, stationariy help us better understand and thus identify the Driving Parameters, to ensure consistence in correlation.
 
 Date: starts in 1743 for average land temperature.
 By 1850 , there were provisions for max and min land temperatures and global ocean and land temperatures
