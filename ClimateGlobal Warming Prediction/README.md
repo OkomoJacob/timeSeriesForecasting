@@ -5,6 +5,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/okomojacob/8d19d988d6f?color=green-yellow&logo=github&logoColor=blue) ![GitHub language count](https://img.shields.io/github/languages/count/OkomoJacob/8d19d988d6f?logo=visual-studio-code) ![GitHub last commit](https://img.shields.io/github/last-commit/OkomoJacob/8d19d988d6f?style=plastic&color=brightgreen) 
 ![Forks](https://img.shields.io/github/forks/OkomoJacob/8d19d988d6f?style=social) ![APM](https://img.shields.io/apm/dm/vim-mode) ![shields](https://img.shields.io/opencollective/sponsors/0) ![Hackage-Deps](https://img.shields.io/hackage-deps/v/lens) ![GitHub top language](https://img.shields.io/github/languages/top/okomojacob/8d19d988d6f)
 
+#### Find Me on Twitter
+
 ### Contents:
 - What is Time Series Data and Time Series Analysis
 - Time Series Use Cases
@@ -71,3 +73,22 @@ Global Average Land Temperature by State (GlobalLandTemperaturesByState.csv)
 ### Find Raw Data at :
 [Berkeley Earth data page](linkhere).
 
+
+#### Errata.
+<hr>
+
+Although we have taken every care to ensure the accuracy of our content, mistakes
+do happen. If you find a mistake in this project—maybe a mistake in the text or
+the code—We would be grateful if you could report this to us via [Jacob Okomo](https://okomojacob.herokuapp.com) or [Christine Joy](https://github.com/JoyChristine) By doing so, you can
+save others from frustration and help me improve subsequent versions of this mini-project and related works. 
+
+#### Credits and Acknowledgements
+<hr>
+
+Hitherto, we give sincere credits to [Jacob Okomo](https://okomojacob.herokuapp.com), and [Christine Joy](https://github.com/JoyChristine) who has since been committing to this project.
+-Thank you
+
+##### Progress Report
+-Merge Joy's work(Search bar) <br>
+-Scroll to top working on Elijah's, merge to main from the owl folder <br>
+-Check in the issues section <br>
