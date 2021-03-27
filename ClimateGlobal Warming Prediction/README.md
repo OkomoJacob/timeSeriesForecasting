@@ -1,4 +1,4 @@
-## Global Warming and Climate Change Prediction using Time Series Analysis
+## Global Warming and Climate Change Prediction using ARIMA Time Series Analysis.
 <hr>
 
 <img align="left" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"><br>
@@ -75,14 +75,12 @@ Global Average Land Temperature by State (GlobalLandTemperaturesByState.csv)
 
 
 #### Errata.
-<hr>
 
 Although I have taken every care to ensure the accuracy of my content,I'm human and mistakes
 do happen. If you find a mistake in this project—maybe a mistake in the text or
 the code— I would be grateful if you could report this to to via [Jacob Okomo](https://okomojacob.herokuapp.com). By doing so, you can save others from frustration and help me improve subsequent versions of these kind of mini-project and related works. 
 
 #### Credits and Acknowledgements
-<hr>
 
 - Sincere credits to [Jacob Okomo](https://okomojacob.herokuapp.com) who is the Owner of this Repository,
 - [Edureka Academy](link) for their online lessons.
