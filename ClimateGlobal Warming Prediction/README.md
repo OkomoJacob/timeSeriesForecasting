@@ -17,11 +17,11 @@
 [Python3](https) : Easy to Learn and Use, easy to maintain
 [Data, CSV](https) : 
 [Pandas](link)
-[Numpy](link)
-[Matplotlib](link)
-[Datetime](link)
-[Statsmodels](https)
-[Statstools](https)
+[Numpy](link) for numerical operation
+[Matplotlib](link) for interactive charts and dates, plots
+[Datetime](link) supplies Classes to work with dates and times and time intervals.
+[Statsmodels](https) Distinguishable patterns, e.g Seasonality, trends and noise.
+[Statstools](https) for [Seasonal Decomposition](link)
 
 ### Steps in this Deep Learning Prediction
 1. [Data Preparation](link)
