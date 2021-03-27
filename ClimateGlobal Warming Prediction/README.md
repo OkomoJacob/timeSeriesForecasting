@@ -10,8 +10,12 @@
 
 [Time Series Analysis](link) Is the Statistical Act/Technique of collecting of Time Series Data and Trends and Anlyssing them.Purposely for [Monitoring of Nature of the Pheenomena](link) to aid in the [Forecasting](link) of measurable outcomes by extrapolating in time.
 ### Built With
-[Python3](https)
-[Data, CSV](https)
+[Python3](https) : Easy to Learn and Use, easy to maintain
+[Data, CSV](https) : 
+[Pandas](link)
+[Numpy](link)
+[Matplotlib](link)
+[Datetime](link)
 [Statsmodels](https)
 [Statstools](https)
 
