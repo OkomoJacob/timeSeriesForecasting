@@ -77,10 +77,9 @@ Global Average Land Temperature by State (GlobalLandTemperaturesByState.csv)
 #### Errata.
 <hr>
 
-Although I have taken every care to ensure the accuracy of our content, mistakes
+Although I have taken every care to ensure the accuracy of my content,I'm human and mistakes
 do happen. If you find a mistake in this project—maybe a mistake in the text or
-the code—We would be grateful if you could report this to us via [Jacob Okomo](https://okomojacob.herokuapp.com) or [Christine Joy](https://github.com/JoyChristine) By doing so, you can
-save others from frustration and help me improve subsequent versions of this mini-project and related works. 
+the code— I would be grateful if you could report this to to via [Jacob Okomo](https://okomojacob.herokuapp.com). By doing so, you can save others from frustration and help me improve subsequent versions of these kind of mini-project and related works. 
 
 #### Credits and Acknowledgements
 <hr>
@@ -88,4 +87,5 @@ save others from frustration and help me improve subsequent versions of this min
 - Sincere credits to [Jacob Okomo](https://okomojacob.herokuapp.com) who is the Owner of this Repository,
 - [Edureka Academy](link) for their online lessons.
 - [Berkeley Earth, Source of the Data](link)
+- 
 -Thank you
