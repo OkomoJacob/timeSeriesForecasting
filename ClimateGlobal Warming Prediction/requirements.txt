@@ -1,0 +1,7 @@
+# install these python libraries
+pandas
+numpy
+[Matplotlib](link)
+[Datetime](link)
+[Statsmodels](https)
+[Statstools](https)
