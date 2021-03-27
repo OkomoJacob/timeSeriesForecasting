@@ -1,5 +1,5 @@
 ## Global Warming and Climate Change Prediction using Time Series Analysis
-
+### Badges
 ### Contents:
 - What is Time Series Data and Time Series Analysis
 - Time Series Use Cases
