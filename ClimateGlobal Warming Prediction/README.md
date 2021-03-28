@@ -15,6 +15,14 @@
 [Statsmodels](https)
 [Statstools](https)
 
+### Steps in this Deep Learning Prediction
+
+1. [Data Preparation](link)
+2. [Data Analysis and Visualization](link) :Trend and Stationality
+3. [Test Stationary](link)
+4. [Data Transformation](link) : Moving Average, Exponential smoothing
+5. [Review With SARIMA with ACF and PACF](link) :AutoRegressive Ingtegrated Moving Average([ARIMA](link))
+
 ### Time Series Analysis Use Cases
 - Financial Analysis : Sales Forecasting, Inentory Analysis, Stock Prediction, Price Estimation, Momentum, etc
 - Weather Forecastion(Analysis): Temp change analysis, Global Climate Change, Seasonal Shift Recognition,
