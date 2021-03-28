@@ -6,7 +6,7 @@
 - Tools and Requirements
 
 #### Time Series Data and Time Series Analysis
-[Time Series Data](https://www.investopedia.com/terms/t/timeseries.asp) can be seen as temporal data, i.e that collected over time at fixed intervals repeatedly.
+[Time Series(Time Stamped) Data](https://www.investopedia.com/terms/t/timeseries.asp) can be seen as temporal data, i.e that collected over time at fixed intervals repeatedly.
 ### Built With
 [Python3](https)
 [Data, CSV](https)
