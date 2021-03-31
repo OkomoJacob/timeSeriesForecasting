@@ -1,4 +1,4 @@
 nicholasSalesPrediction/
 *.vs_codes
 *.ipynb_checkpoints
-udemyCourse/predictCityTemps/GlobalLandTemperaturesByCity.csv
+udemyCourse/predictCityTemps/data/GlobalLandTemperaturesByCity.csv
